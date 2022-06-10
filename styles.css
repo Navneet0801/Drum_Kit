@@ -17,22 +17,22 @@ footer {
   font-size: 2rem;
 }
 
-.w {
+.a {
   background-image: url(images/kick.png);
   background-size: cover;
 }
 
-.a {
+.s {
   background-image: url(images/snare.png);
   background-size: cover;
 }
 
-.s {
+.d {
   background-image: url(images/tom1.png);
   background-size: cover;
 }
 
-.d {
+.f {
   background-image: url(images/tom2.png);
   background-size: cover;
 }
